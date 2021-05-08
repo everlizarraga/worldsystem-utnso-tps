@@ -1,0 +1,20 @@
+Error al iniciar VM #2067
+[https://github.com/sisoputnfrba/foro/issues]
+
+Hola. Hice todo lo que sugerian en las issues, pero nada de eso me funcionó. 
+Sin embargo tengo el agrado de contarles que pude solucionar el problema. Y les cuento como:
+- Me di cuenta que en los windows 10 que estan al dia con sus actualizaciones, generalmente tenían este problema (Me fije en varias compus), me refiero a las versiones de VirtualBox 5.2 y 6.0 
+- Además también observé que los que instalaban la última version del VirtualBox (6.1.22), si podian levantar la VM, pero tenían problemas con el Guest Additions.
+
+Con esto deduje que las versiones 6.1 si podían ejecutar la VM, así que para confirmar esta hipótesis, instale otra version de la 6.1 (instalé la 6.1.4) y efectivamente pudo levantar la VM sin problemas y además le andaba bien el Guest Additions (la resolución de la pantalla se adaptaba sin problemas a la ventana). Sin embargo, esta versión tenía problemas con compartir el portapapeles de la VM con la compu.
+
+Conclusión:
+========
+Buscando y probando versiones de la 6.1 de VirtualBox, logré dar con una que le anda todo, todito.
+- Levantar la VM
+- No tirar ningun error durante la ejecución de la VM
+- Llevarse bien con la Guest Additions.
+- Compartir el portapapeles sin problemas
+
+La versión es la [6.1.6](https://www.virtualbox.org/wiki/Download_Old_Builds_6_1).
+Dejo el [link](https://download.virtualbox.org/virtualbox/6.1.6/VirtualBox-6.1.6-137129-Win.exe) para que lo descarguen.
