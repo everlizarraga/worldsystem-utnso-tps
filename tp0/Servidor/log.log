@@ -1,0 +1,131 @@
+[INFO] 08:56:13:591 Servidor/(7536:7536): Servidor listo para recibir al cliente
+[INFO] 17:20:01:584 Servidor/(7536:7536): Se conecto un cliente!
+[INFO] 17:20:01:587 Servidor/(7536:7536): Me llego el mensaje Hola, soy un valor
+[ERROR] 17:20:01:587 Servidor/(7536:7536): el cliente se desconecto. Terminando servidor
+[INFO] 17:20:38:371 Servidor/(16987:16987): Servidor listo para recibir al cliente
+[INFO] 17:22:11:503 Servidor/(16987:16987): Se conecto un cliente!
+[INFO] 17:22:11:504 Servidor/(16987:16987): Me llego el mensaje Hola, soy un valor
+[ERROR] 17:22:11:504 Servidor/(16987:16987): el cliente se desconecto. Terminando servidor
+[INFO] 17:22:35:600 Servidor/(17116:17116): Servidor listo para recibir al cliente
+[INFO] 17:35:57:190 Servidor/(17116:17116): Se conecto un cliente!
+[INFO] 17:35:57:191 Servidor/(17116:17116): Me llego el mensaje Hola, soy un valor
+[ERROR] 17:35:57:192 Servidor/(17116:17116): el cliente se desconecto. Terminando servidor
+[INFO] 17:47:56:518 Servidor/(17424:17424): Servidor listo para recibir al cliente
+[INFO] 17:48:00:413 Servidor/(17424:17424): Se conecto un cliente!
+[INFO] 17:48:00:414 Servidor/(17424:17424): Me llego el mensaje Hola, soy un valor XD!!
+[ERROR] 17:48:00:414 Servidor/(17424:17424): el cliente se desconecto. Terminando servidor
+[INFO] 17:48:21:835 Servidor/(17435:17435): Servidor listo para recibir al cliente
+[INFO] 17:48:53:662 Servidor/(17435:17435): Se conecto un cliente!
+[INFO] 17:48:53:662 Servidor/(17435:17435): Me llego el mensaje Hola, soy un valor XD!!
+[ERROR] 17:48:53:662 Servidor/(17435:17435): el cliente se desconecto. Terminando servidor
+[INFO] 17:49:11:570 Servidor/(17446:17446): Servidor listo para recibir al cliente
+[INFO] 18:00:36:590 Servidor/(17446:17446): Se conecto un cliente!
+[INFO] 18:00:36:590 Servidor/(17446:17446): Me llego el mensaje Hola, soy un valor XD!!
+[ERROR] 18:00:36:590 Servidor/(17446:17446): el cliente se desconecto. Terminando servidor
+[INFO] 18:01:09:054 Servidor/(17643:17643): Servidor listo para recibir al cliente
+[INFO] 18:01:11:378 Servidor/(17643:17643): Se conecto un cliente!
+[INFO] 18:01:11:379 Servidor/(17643:17643): Me llego el mensaje Hola, soy un valor XD!!
+[ERROR] 18:01:11:380 Servidor/(17643:17643): el cliente se desconecto. Terminando servidor
+[INFO] 18:16:58:522 Servidor/(17746:17746): Servidor listo para recibir al cliente
+[INFO] 18:17:13:301 Servidor/(17746:17746): Se conecto un cliente!
+[INFO] 18:17:13:302 Servidor/(17746:17746): Me llego el mensaje Hola, soy un valor XD!!
+[ERROR] 18:17:13:302 Servidor/(17746:17746): el cliente se desconecto. Terminando servidor
+[INFO] 18:36:17:657 Servidor/(17907:17907): Servidor listo para recibir al cliente
+[INFO] 18:51:29:749 Servidor/(17907:17907): Se conecto un cliente!
+[INFO] 18:51:29:754 Servidor/(17907:17907): Me llego el mensaje Hola, soy un valor XD!!
+[ERROR] 18:51:29:755 Servidor/(17907:17907): el cliente se desconecto. Terminando servidor
+[INFO] 18:52:01:092 Servidor/(18028:18028): Servidor listo para recibir al cliente
+[INFO] 18:52:07:669 Servidor/(18028:18028): Se conecto un cliente!
+[INFO] 18:52:07:670 Servidor/(18028:18028): Me llego el mensaje Hola, soy un valor XD!!
+[ERROR] 18:52:07:670 Servidor/(18028:18028): el cliente se desconecto. Terminando servidor
+[INFO] 18:52:44:840 Servidor/(18050:18050): Servidor listo para recibir al cliente
+[INFO] 18:52:50:133 Servidor/(18050:18050): Se conecto un cliente!
+[INFO] 18:52:50:134 Servidor/(18050:18050): Me llego el mensaje Hola, soy un valor XD!!
+[ERROR] 18:52:50:134 Servidor/(18050:18050): el cliente se desconecto. Terminando servidor
+[INFO] 18:53:02:023 Servidor/(18063:18063): Servidor listo para recibir al cliente
+[INFO] 18:53:09:118 Servidor/(18063:18063): Se conecto un cliente!
+[INFO] 18:53:09:119 Servidor/(18063:18063): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 18:53:09:119 Servidor/(18063:18063): el cliente se desconecto. Terminando servidor
+[INFO] 19:34:12:187 Servidor/(18824:18824): Servidor listo para recibir al cliente
+[INFO] 19:35:13:032 Servidor/(18824:18824): Se conecto un cliente!
+[INFO] 19:35:13:032 Servidor/(18824:18824): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 19:35:13:032 Servidor/(18824:18824): el cliente se desconecto. Terminando servidor
+[INFO] 19:36:10:520 Servidor/(18846:18846): Servidor listo para recibir al cliente
+[INFO] 19:36:41:051 Servidor/(18846:18846): Se conecto un cliente!
+[INFO] 19:36:41:052 Servidor/(18846:18846): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 19:36:41:052 Servidor/(18846:18846): el cliente se desconecto. Terminando servidor
+[INFO] 19:39:31:989 Servidor/(18900:18900): Servidor listo para recibir al cliente
+[INFO] 19:42:09:848 Servidor/(18900:18900): Se conecto un cliente!
+[INFO] 19:42:09:849 Servidor/(18900:18900): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 19:42:09:849 Servidor/(18900:18900): el cliente se desconecto. Terminando servidor
+[INFO] 19:42:15:094 Servidor/(18938:18938): Servidor listo para recibir al cliente
+[INFO] 22:14:10:068 Servidor/(18938:18938): Se conecto un cliente!
+[INFO] 22:14:10:072 Servidor/(18938:18938): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 22:14:10:072 Servidor/(18938:18938): el cliente se desconecto. Terminando servidor
+[INFO] 23:06:39:133 Servidor/(23402:23402): Servidor listo para recibir al cliente
+[INFO] 23:06:39:135 Servidor/(23402:23402): Start-espera!!!
+[INFO] 23:10:11:058 Servidor/(23402:23402): Se conecto un cliente!
+[INFO] 23:10:11:059 Servidor/(23402:23402): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 23:10:11:059 Servidor/(23402:23402): el cliente se desconecto. Terminando servidor
+[INFO] 23:35:15:571 Servidor/(23657:23657): Servidor listo para recibir al cliente
+[INFO] 23:35:25:216 Servidor/(23657:23657): Se conecto un cliente!
+[INFO] 23:35:25:216 Servidor/(23657:23657): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 23:35:25:217 Servidor/(23657:23657): el cliente se desconecto. Terminando servidor
+[INFO] 23:35:56:221 Servidor/(23673:23673): Servidor listo para recibir al cliente
+[INFO] 23:36:10:628 Servidor/(23673:23673): Se conecto un cliente!
+[INFO] 23:36:10:629 Servidor/(23673:23673): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 23:36:10:629 Servidor/(23673:23673): el cliente se desconecto. Terminando servidor
+[INFO] 23:37:01:061 Servidor/(23705:23705): Servidor listo para recibir al cliente
+[INFO] 23:37:05:716 Servidor/(23705:23705): Se conecto un cliente!
+[INFO] 23:37:05:716 Servidor/(23705:23705): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 23:37:05:716 Servidor/(23705:23705): el cliente se desconecto. Terminando servidor
+[INFO] 23:37:28:177 Servidor/(23714:23714): Servidor listo para recibir al cliente
+[INFO] 23:37:33:568 Servidor/(23714:23714): Se conecto un cliente!
+[INFO] 23:37:33:569 Servidor/(23714:23714): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 23:37:33:569 Servidor/(23714:23714): el cliente se desconecto. Terminando servidor
+[INFO] 07:29:52:796 Servidor/(15870:15870): Servidor listo para recibir al cliente
+[INFO] 07:32:27:906 Servidor/(15870:15870): Se conecto un cliente!
+[INFO] 07:32:27:912 Servidor/(15870:15870): Me llego el mensaje:: Hola, soy un valor XD!!
+[INFO] 07:32:47:811 Servidor/(15870:15870): Se conecto un cliente!
+[INFO] 07:32:47:811 Servidor/(15870:15870): Me llego el mensaje:: Hola, soy un valor XD!!
+[INFO] 07:32:56:518 Servidor/(15870:15870): Se conecto un cliente!
+[INFO] 07:32:56:519 Servidor/(15870:15870): Me llego el mensaje:: Hola, soy un valor XD!!
+[INFO] 07:33:05:446 Servidor/(15870:15870): Se conecto un cliente!
+[INFO] 07:33:05:447 Servidor/(15870:15870): Me llego el mensaje:: Hola, soy un valor XD!!
+[INFO] 08:53:58:503 Servidor/(18031:18031): Servidor listo para recibir al cliente
+[INFO] 08:54:02:991 Servidor/(18031:18031): Se conecto un cliente!
+[INFO] 08:54:02:992 Servidor/(18031:18031): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 08:54:02:992 Servidor/(18031:18031): el cliente se desconecto. Terminando servidor
+[INFO] 09:30:22:972 Servidor/(19621:19621): Servidor listo para recibir al cliente
+[INFO] 09:30:40:113 Servidor/(19621:19621): Se conecto un cliente!
+[INFO] 09:30:40:113 Servidor/(19621:19621): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 09:30:40:114 Servidor/(19621:19621): el cliente se desconecto. Terminando servidor
+[INFO] 10:05:07:765 Servidor/(20288:20288): Servidor listo para recibir al cliente
+[INFO] 10:06:08:655 Servidor/(20288:20288): Se conecto un cliente!
+[INFO] 10:06:08:656 Servidor/(20288:20288): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 10:06:08:657 Servidor/(20288:20288): el cliente se desconecto. Terminando servidor
+[INFO] 10:06:18:312 Servidor/(20303:20303): Servidor listo para recibir al cliente
+[INFO] 10:06:32:606 Servidor/(20303:20303): Se conecto un cliente!
+[INFO] 10:06:32:607 Servidor/(20303:20303): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 10:06:32:607 Servidor/(20303:20303): el cliente se desconecto. Terminando servidor
+[INFO] 10:06:55:865 Servidor/(20331:20331): Servidor listo para recibir al cliente
+[INFO] 10:07:06:157 Servidor/(20331:20331): Se conecto un cliente!
+[INFO] 10:07:06:158 Servidor/(20331:20331): Me llego el mensaje:: Hola, soy un valor XD!!
+[ERROR] 10:07:06:158 Servidor/(20331:20331): el cliente se desconecto. Terminando servidor
+[INFO] 10:16:35:300 Servidor/(20496:20496): Servidor listo para recibir al cliente
+[INFO] 10:16:41:377 Servidor/(20496:20496): Se conecto un cliente!
+[INFO] 10:16:41:378 Servidor/(20496:20496): Me llego el mensaje:: Hola, soy un valor XD!!
+[INFO] 10:16:47:601 Servidor/(20496:20496): Se conecto un cliente!
+[INFO] 10:16:47:602 Servidor/(20496:20496): Me llego el mensaje:: Hola, soy un valor XD!!
+[INFO] 10:28:38:060 Servidor/(20818:20818): Servidor listo para recibir al cliente
+[INFO] 10:28:58:387 Servidor/(20818:20818): Se conecto un cliente!
+[INFO] 10:28:58:387 Servidor/(20818:20818): Me llego el mensaje:: Hola, soy un valor XD!!
+[INFO] 10:30:22:512 Servidor/(20843:20843): Servidor listo para recibir al cliente
+[INFO] 10:30:41:742 Servidor/(20843:20843): Se conecto un cliente!
+[INFO] 10:31:27:016 Servidor/(20843:20843): Se conecto un cliente!
+[INFO] 10:34:27:917 Servidor/(20928:20928): Servidor listo para recibir al cliente
+[INFO] 10:34:50:171 Servidor/(20928:20928): Se conecto un cliente!
+[INFO] 10:35:17:900 Servidor/(20936:20936): Servidor listo para recibir al cliente
+[INFO] 11:07:25:460 Servidor/(20936:20936): Se conecto un cliente!
+[INFO] 12:18:33:584 Servidor/(23167:23167): Servidor listo para recibir al cliente
+[INFO] 12:19:07:362 Servidor/(23167:23167): Se conecto un cliente!
