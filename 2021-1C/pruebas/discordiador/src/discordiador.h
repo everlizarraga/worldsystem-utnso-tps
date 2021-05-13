@@ -17,6 +17,7 @@
 
 #include <sys/socket.h>
 #include <arpa/inet.h> // Agregado de Video
+#include <netdb.h>
 
 //Variables:
 t_log *logger;
